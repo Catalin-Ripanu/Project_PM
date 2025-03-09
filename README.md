@@ -28,7 +28,7 @@ This machine variant represents, in essence, a portable version of the real mach
 
 ## Block Diagram
 
-![Block Diagram](schema_bloc.jpg)
+![Block Diagram](block_scheme.png)
 
 ## Hardware Design
 
@@ -45,7 +45,7 @@ This machine variant represents, in essence, a portable version of the real mach
 
 ## Electrical Schematic
 
-![Electrical Schematic](schema_electrica.jpg)
+![Electrical Schematic](enigma_schematic.png)
 
 ## Project Initialization
 
